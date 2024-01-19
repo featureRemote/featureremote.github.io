@@ -1,3 +1,7 @@
 # 面试题收集自用
-基于这个项目
+
+## 架子
 https://docsify.js.org/#/configuration
+
+## 发布
+![img.png](img.png)
